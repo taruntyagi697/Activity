@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ECBFAFA3-0420-4D3B-BBB2-2F9B6089E6E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS7LoadingActivity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AACE28003A212AA20C86E28170F7ADCAF31F1C92</key>
+		<string>https://github.com/taruntyagi697/Activity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/iOS7LoadingActivity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AACE28003A212AA20C86E28170F7ADCAF31F1C92</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/taruntyagi697/Activity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AACE28003A212AA20C86E28170F7ADCAF31F1C92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AACE28003A212AA20C86E28170F7ADCAF31F1C92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Activity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
